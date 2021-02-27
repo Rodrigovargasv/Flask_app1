@@ -17,7 +17,7 @@ https://www.digitalocean.com/community/tutorials/how-to-add-authentication-to-y
 http://pythonclub.com.br/guia-rapido-comandos-sqlite3.htmlour-app-with-flask-login-pt
 http://pythonclub.com.br/gerenciando-banco-dados-sqlite3-python-parte1.html
 
-Aprensetação do projeto:
+Apresentação do projeto:
 https://www.loom.com/share/94e696922a0a42459e2b083600c50d61
 
 
